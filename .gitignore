@@ -19,5 +19,9 @@ main.zip
 main
 *.zip
 
-# Hugo
+#Hugo
 config.toml
+public/*
+resources/*
+assets/*
+data/*
